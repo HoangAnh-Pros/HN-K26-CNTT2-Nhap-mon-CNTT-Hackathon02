@@ -3,7 +3,7 @@
 - **Mã đề:** 10
 - **Họ tên:Lê Hoàng Anh**
 - **Lớp:CNTT2**
-- **Link repository:**
+- **Link repository:** https://github.com/HoangAnh-Pros/HN-K26-CNTT2-Nhap-mon-CNTT-Hackathon02/blob/main/chuyen-nha-website/bai_lam.md
 - **Hệ điều hành (Windows/macOS):Windows**
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
@@ -223,7 +223,7 @@ Count    : 4
 ### Bảng lỗi
 
 | STT | Tab DevTools phát hiện lỗi | Tên file hoặc thông báo lỗi | Cách khắc phục |
-| --- | --- | --- | --- |
+|---|---|---|---|
 | 1 | network | logo-sound.png |kiểm tra lỗi, xem lại ảnh,sửa lại cho đúng  |
 | 2 | cốnle |GET file:///C:/Users/ADMIN/Downloads/starter-kit%20(1)/starter-kit/chuyen-nha-website/web/images/logo.jpg net::ERR_FILE_NOT_FOUND  |kiểm tra lại đường dẫn,fix lại cho chuẩn   |
 
